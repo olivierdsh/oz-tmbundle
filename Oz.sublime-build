@@ -1,0 +1,6 @@
+{
+    "file_regex": "in file \"(.+.oz)\", line ([0-9]*), column ([0-9]*)",
+    "selector": "source.oz",
+    "cmd": ["ozc -c $file -- && ozengine ${file}f"],
+    "shell": true
+}
