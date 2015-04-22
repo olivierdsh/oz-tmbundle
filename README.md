@@ -1,8 +1,8 @@
-# TextMate Bundle for the Oz programming language
+# Sublime Text package/TextMate Bundle for the Oz programming language
 
-TextMate Bundle to help developing with [Oz](http://www.mozart-oz.org/).
+Sublime Text package/TextMate Bundle to help developing with [Oz](http://www.mozart-oz.org/).
 
-## Install
+## TextMate Install(OSX)
 
     mkdir -p ~/Library/Application\ Support/TextMate/Bundles
     cd ~/Library/Application\ Support/TextMate/Bundles
