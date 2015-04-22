@@ -24,6 +24,7 @@ You may need to restart Sublime Text for the changes to take effect
 * Indentation
 * Some Snippets (fun, if, if/else, local … in … end)
 * Compile and execute scripts and output as html or text (⌘R, ⌘⇧R)
+* Run functors from Sublime Text (Ctrl+b)
 
 ## Author
 
