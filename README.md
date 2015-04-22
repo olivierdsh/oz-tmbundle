@@ -9,6 +9,15 @@ TextMate Bundle to help developing with [Oz](http://www.mozart-oz.org/).
     git clone git://github.com/eregon/oz-tmbundle.git Oz.tmbundle
     osascript -e 'tell app "TextMate" to reload bundles'
 
+## Sublime Text Install
+
+### Linux
+
+    cd ~/.config/sublime-text-2/Packages
+    git clone git@github.com:olivierdsh/oz-tmbundle.git Oz.tmbundle
+
+You may need to restart Sublime Text for the changes to take effect
+
 ## Features
 
 * Basic Grammar of the language
