@@ -16,6 +16,11 @@ Sublime Text package/TextMate Bundle to help developing with [Oz](http://www.moz
     cd ~/.config/sublime-text-2/Packages
     git clone git@github.com:olivierdsh/oz-tmbundle.git Oz.tmbundle
 
+### OSX
+
+    cd ~/Library/Application Support/Sublime Text 2/Packages
+    git clone git@github.com:olivierdsh/oz-tmbundle.git Oz.tmbundle
+
 You may need to restart Sublime Text for the changes to take effect
 
 ## Features
